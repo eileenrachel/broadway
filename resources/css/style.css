@@ -14,10 +14,7 @@ h1 {
   color: white;
 }
 
-a {
-  color: white;
-}
-
 #header nav p a {
   font-size: 18px;
+  color: white; 
 }
