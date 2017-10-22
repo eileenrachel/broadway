@@ -32,3 +32,10 @@ h1 {
 #process p {
   font-size: 14px;
 }
+
+#designed h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+}
