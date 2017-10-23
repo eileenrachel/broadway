@@ -14,7 +14,7 @@ h1 {
   color: white;
 }
 
-#header nav p a {
+#header nav p a, #footer nav a{
   font-size: 18px;
   color: white;
 }
@@ -38,4 +38,16 @@ p {
   font-weight: bold;
   color: white;
   background-image: url(../images/the-flatiron-building.png);
+}
+
+#footer {
+  background-color: dimgray;
+  text-align: left;
+}
+
+#copyright p {
+  color: white;
+  font-size: 11px;
+  float: left;
+  margin: 6px;
 }
